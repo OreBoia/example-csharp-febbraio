@@ -1,3 +1,3 @@
 # example-csharp-febbraio
 
-questa è una repo di prova per mostrare le funzionalità di GitHubDesktop
+questa è una repo di prova per mostrare le funzionalità di GitHubDesktop.
